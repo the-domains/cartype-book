@@ -1,7 +1,7 @@
 name: Cartype Book
 favicon: null
-layout_spectrum: 0.11249141581356525
-typography_spectrum: 0.5760168682318181
+layout_spectrum: 0
+typography_spectrum: 0.93315
 cta:
   domain: null
   bucket: null
